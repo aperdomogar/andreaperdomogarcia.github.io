@@ -87,6 +87,15 @@ bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
+main : 
+  - title: "About me" # Here I can also put my interests and CV
+    url: /about/
+  #- title: "Posts" # Maybe someday I can use this as a blog?
+  #  url: /years/
+  - title: "Publications"
+    url: /publications/
+  - title: "Conferences"
+    url: /tags/
 
 # Social Sharing
 twitter:
