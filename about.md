@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ## About
-Assistant Profesor in the Universidad de Las Palmas de Gran Canaria
+Assistant Professor in the Universidad de Las Palmas de Gran Canaria.
 
 ## Experience
 - **Assistant Proassistant professor** (2026--now) in the Universisdad de Las Palmas de Gran Canaria.
