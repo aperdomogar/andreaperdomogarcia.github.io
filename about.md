@@ -1,7 +1,8 @@
 ---
 layout: home
 title: About
-permalink: /about/
+permalink: /
+author profile: true
 ---
 
 ## About
