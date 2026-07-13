@@ -124,7 +124,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Perdomo García"
-  avatar           : #"/assets/images/foto_perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/foto_perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctor in Astrophysics"
   location         : "Canary Islands"
   email            :
@@ -133,9 +133,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:andrperdomo@gmail.com"
-    - label: "ORCID"
-      icon: "fa fa-orcid"
-       url: "https://orcid.org/0000-0001-6914-3067"
+    #- label: "ORCID"
+    #  icon: "fa fa-orcid"
+    #   url: "https://orcid.org/0000-0001-6914-3067"
     - label: "Linkedin"
       icon: "fa fa-linkedin"
        url: "www.linkedin.com/in/a-perdomo-garcia"
