@@ -62,7 +62,3 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Attendance to the [XXXI Canary Islands Winter School of Astrophysics](https://meetings.iac.es/winterschool/2019/index.php) (2019), organized by the Instituto de Astrofísica de Canarias: school consisting in lectures and hand-son sessions about Computational Fluid Dynamics in Astrophysics. Among the topics were: dynamic of solar and stellar convection, solar atmosphere, galaxy formation, interstellar medium.
 - Relevant courses during the Master (2017-2019): spectropolarimetry in astrophysics, solar physics and spacial climate, programming techniques, cosmic plasma physics, stellar atmospheres, computational astrophysics, numeric simulation techniques, stellar structure and evolution, basic computational techniques.
 
-
-**Disclaimer:** This website is under constant modification.
-If you find something isn't right then,
-I might be doing some change in the back-end.
