@@ -32,6 +32,7 @@ As first author:
 - A. Perdomo García et al., [“Opacity for realistic 3D MHD simulations of cool stellar atmospheres” (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.160P).
 - A. Perdomo García et al., [“Hydrodynamic simulations of cool stellar atmospheres with MANCHA” (2024)](https://ui.adsabs.harvard.edu/abs/2024A&A...688A..27P).
 - A. Perdomo García et al., [“The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA” (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.191P/abstract).
+
 As coauthor:
 - M. Modestov et al., [“MANCHA3D Code: Multipurpose Advanced Nonideal MHD Code for High-Resolution Simulations in
 Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/abstract).
