@@ -10,11 +10,11 @@ Assistant Profesor in the Universidad de Las Palmas de Gran Canaria
 ## Experience
 - **Assistant Proassistant professor** (2026--now) in the Universisdad de Las Palmas de Gran Canaria.
 - **Postdoc researcher** (2024--2026) in stellar physics and exoplanets at the Max-Plank Institut für Astronomie: Study of the chemical link between exoplanets and their stellar hosts with the most up-to-date available data from GALAH, APOGEE, and Gaia-ESO. Creation of Observing Blocks during the Survey Program Validation in 4MOST. Group leader: Maria Bergemann.
-- **PhD in astrophysics** (2019--2024) about stellar and interstellar physics; Severo Ochoa predoctoral position in the Instituto de Astrofísica de Canarias: Study of stellar atmospheres through realistic 3D radiative MHD simulations with non-ideal terms in the induction equation (Biermann's battery). Supervisors: Nikola Vitas, Manuel A. Collados Vera. The study is realized as a part of PI2FA project (\textcolor{cyan}{\url{http://research.iac.es/proyecto/PI2FA/}}) led by PI Elena Khomenko.
+- **PhD in astrophysics** (2019--2024) about stellar and interstellar physics; Severo Ochoa predoctoral position in the Instituto de Astrofísica de Canarias: Study of stellar atmospheres through realistic 3D radiative MHD simulations with non-ideal terms in the induction equation (Biermann's battery). Supervisors: Nikola Vitas, Manuel A. Collados Vera. The study is realized as a part of [PI2FA project](http://research.iac.es/proyecto/PI2FA/) led by PI Elena Khomenko.
 - **Masters final thesis** (2019) about characterization of a black hole x-ray transient during outburst: Analysis of optical spectroscopic and photometric observations of the x-ray binary Swift J1910.2-0546 during outburst and quiescence. Supervisors: Manuel A. Pérez Torres, Pablo Rodríguez Gil.
 - **Collaboration Grant** (2018) about numeric simulations of Bose-Einstein condensates of atomic gases: Continuation of the work started during the Bachelor degree's final thesis. Supervisor: Vicente Delgado Borges.
 - **Bachelor degree's final thesis** (2017) about Bose-Einstein Condensates of Dilute Alkali Gases: Theoretical and numerical study of Bose-Einstein Condensates' equations for temperatures near the absolute zero, focusing on the quasi-1D case. Supervisor: Vicente Delgado Borges
-- **Internship** (2017) at the Servicio de Microscopía Electrónica del SEGAI: Assistance in the SEGAI's Electron Microscopy Service (\textcolor{cyan}{\url{https://www.ull.es/servicios/segai/servicios/microscopia-electronica/}}).
+- **Internship** (2017) at the Servicio de Microscopía Electrónica del SEGAI: Assistance in the [SEGAI's Electron Microscopy Service](//www.ull.es/servicios/segai/servicios/microscopia-electronica/).
 
 ## Education and training
 - 2019--2024: PhD in Astrophysics (Universidad de La Laguna,Tenerife, Spain), Stellar and interstellar physics.
@@ -23,21 +23,19 @@ Assistant Profesor in the Universidad de Las Palmas de Gran Canaria
 
 ##  Programming skills
 - Programming languages and tools: IDL, Python, IRAF, MPI, Fortran, git.
-- Experience with HPC on Piz-Daint (\textcolor{cyan}{\url{https://www.cscs.ch/computers/piz-daint/}}), MareNostrum (\textcolor{cyan}{\url{https://www.bsc.es/marenostrum/marenostrum}}), PICASSO (\textcolor{cyan}{\url{https://www.res.es/es/nodos-de-la-res/picasso}}) and LaPalma (\textcolor{cyan}{\url{https://www.res.es/es/nodos-de-la-res/lapalma}}) Supercomputers.
+- Experience with HPC on [Piz-Daint](https://www.cscs.ch/computers/piz-daint/), [MareNostrum](https://www.bsc.es/marenostrum/marenostrum), [PICASSO](https://www.res.es/es/nodos-de-la-res/picasso) and [LaPalma](https://www.res.es/es/nodos-de-la-res/lapalma) Supercomputers.
 
 ## Publications in peer reviewed Journals:
 As first author:
-- A. Perdomo García et al., “Opacity for realistic 3D MHD simulations of cool stellar atmospheres”, 675, A160, A160 (2023).
-- A. Perdomo García et al., “Hydrodynamic simulations of cool stellar atmospheres with MANCHA”, 688, A27, A27 (2024).
-- A. Perdomo García et al., “The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA”,
-700, A191, A191 (2025).
+- A. Perdomo García et al., [“Opacity for realistic 3D MHD simulations of cool stellar atmospheres” (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.160P).
+- A. Perdomo García et al., [“Hydrodynamic simulations of cool stellar atmospheres with MANCHA” (2024)](https://ui.adsabs.harvard.edu/abs/2024A&A...688A..27P).
+- A. Perdomo García et al., [“The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA” (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...700A.191P/abstract).
 As coauthor:
-- M. Modestov et al., “MANCHA3D Code: Multipurpose Advanced Nonideal MHD Code for High-Resolution Simulations in
-Astrophysics”, 299, 23, 23 (2024).
-- J. M. Corral-Santana et al., “Characterising the short-orbital period X-ray transient Swift J1910.2-0546”, arXiv e-prints,
-arXiv:2508.16775, arXiv:2508.16775 (2025).
+- M. Modestov et al., [“MANCHA3D Code: Multipurpose Advanced Nonideal MHD Code for High-Resolution Simulations in
+Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/abstract).
+- J. M. Corral-Santana et al., [“Characterising the short-orbital period X-ray transient Swift J1910.2-0546” (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.225C/abstract).
 
-## Seminars and other activities
+## Seminars, conferences, and other activities
 - Attendance and participation with two talks (progress of Survey Program Validation phase for S4, project about planet formation at low metallicities in S4) in the 4MIDABLE [4MOST](https://www.4most.eu/cms/home/) workshop (2026, Lund). 
 - Attendance and participation with a talk in the [From Galaxies to Planets: an elemental journey Conference](https://bitsch.www3.mpia.de/Ringberg.html) (2026, Munich). "Planet formation under the gaze od Z metallicity: unexplained planets".
 - Attendance to the [Open Time Proposal PLATO workshop](https://events.gwdg.de/event/1126/page/340-travel-information) (2025, Munich).
