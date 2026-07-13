@@ -2,7 +2,7 @@
 layout: home
 title: About
 permalink: /
-author profile: true
+author_profile: true
 ---
 
 ## About
