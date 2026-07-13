@@ -26,6 +26,8 @@ Assistant Profesor in the Universidad de Las Palmas de Gran Canaria
 - Experience with HPC on [Piz-Daint](https://www.cscs.ch/computers/piz-daint/), [MareNostrum](https://www.bsc.es/marenostrum/marenostrum), [PICASSO](https://www.res.es/es/nodos-de-la-res/picasso) and [LaPalma](https://www.res.es/es/nodos-de-la-res/lapalma) Supercomputers.
 
 ## Publications in peer reviewed Journals:
+My publications can be found in the [NASA ADS system](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=author%3A%22perdomo%20garc%C3%ADa%2C%20andrea%22&sort=date%20desc%2C%20bibcode%20desc&p_=0). 
+
 As first author:
 - A. Perdomo García et al., [“Opacity for realistic 3D MHD simulations of cool stellar atmospheres” (2023)](https://ui.adsabs.harvard.edu/abs/2023A&A...675A.160P).
 - A. Perdomo García et al., [“Hydrodynamic simulations of cool stellar atmospheres with MANCHA” (2024)](https://ui.adsabs.harvard.edu/abs/2024A&A...688A..27P).
