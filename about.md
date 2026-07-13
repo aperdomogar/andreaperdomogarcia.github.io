@@ -47,12 +47,14 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Attendance and participation with a talk in the EAS annual meeting (2025, Cork). "Metallicities of planet-hosts".
 - Attendance and participation with a talk in the IX Reunión de Física Solar y Heliosférica de la Red de Infraestructuras de Astronomía (2025, Lluc, Mallorca). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
 - Invited Colloquium at the Institut für Sonnen Physics (2025, Freiburg). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
+- Attendance and participation with a poster in the [Día de Nuestra Ciencia](https://meetings.iac.es/DNC/pages/test/program.php) (2023, Spain). "Opacity for cool stars in 3D MHD simulations".
 - Stay at the Max-Planck Institute for Solar System Research (January-February 2023, Göttingen).
 - Attendance and participation with a talk in the SEA anual meeting (2022, La Laguna). "Optimized opacity for near-surface convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a ([poster](\url{https://doi.org/10.5281/zenodo.7524414)) in the [Cool Stars 21](https://coolstars21.github.io/) meeting (2022, Toulouse). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a poster in the EAS anual meeting (2022, Valencia). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
 - Attendance to the Yearly meeting of the ERC Synergy Grant [The Whole Sun](https://wholesun.eu/) (2022, Paris).
 - Attendance and participation with a [poster](https://indico.ict.inaf.it/event/794/contributions/9581/) in the 16th European Solar Physics Meeting (2021, online). "The opacity pipeline: from atomic data to realistic RMHD simulations".
+- Attendance and participation with a poster in the Día de Nuestra Ciencia (2021, online). "Modeling of 3D atmospheres of cool stars with the MANCHA code".
 - Attendance to the online course Fortran for Scientific Computing held at the High-Performance Computing Center Stuttgart (2021, online).
 - Attendance and participation with a [poster](https://ui.adsabs.harvard.edu/abs/2021csss.confE.129P) in the Cool Stars 20.5 meeting (2021). "The opacity pipeline: from atomic data to realistic RMHD simulations".
 - Attendance to the [STFC Solar-Stellar Connection Summer School](https://warwick.ac.uk/fac/sci/physics/research/cfsa/stfc_summer_school/) (2020, online).
