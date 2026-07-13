@@ -5,8 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## About
-Assistant Professor in the Universidad de Las Palmas de Gran Canaria.
+Assistant Professor in the Universidad de Las Palmas de Gran Canaria. Interested in 3D MHD modelling of stellar atmospheres, chemical link between planets and their stellar hosts, and stellar spectroscopy (4MOST).
 
 ## Experience
 - **Assistant Proassistant professor** (2026--now) in the Universisdad de Las Palmas de Gran Canaria.
