@@ -39,6 +39,7 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - J. M. Corral-Santana et al., [“Characterising the short-orbital period X-ray transient Swift J1910.2-0546” (2025)](https://ui.adsabs.harvard.edu/abs/2025A%26A...702A.225C/abstract).
 
 ## Seminars, conferences, and other activities
+- Attendance and plarticipation in the 4MOST HR SPV Hackathon (2026, Heidelberg).
 - Attendance and participation with two talks (progress of Survey Program Validation phase for S4, project about planet formation at low metallicities in S4) in the 4MIDABLE [4MOST](https://www.4most.eu/cms/home/) workshop (2026, Lund). 
 - Attendance and participation with a talk in the [From Galaxies to Planets: an elemental journey Conference](https://bitsch.www3.mpia.de/Ringberg.html) (2026, Munich). "Planet formation under the gaze od Z metallicity: unexplained planets".
 - Attendance to the [Open Time Proposal PLATO workshop](https://events.gwdg.de/event/1126/page/340-travel-information) (2025, Munich).
@@ -46,8 +47,8 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Attendance and participation with a talk in the EAS annual meeting (2025, Cork). "Metallicities of planet-hosts".
 - Attendance and participation with a talk in the IX Reunión de Física Solar y Heliosférica de la Red de Infraestructuras de Astronomía (2025, Lluc, Mallorca). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
 - Invited Colloquium at the Institut für Sonnen Physics (2025, Freiburg). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
-- Attendance and participation with a poster in the [Día de Nuestra Ciencia](https://meetings.iac.es/DNC/pages/test/program.php) (2023, Spain). "Opacity for cool stars in 3D MHD simulations".
-- Stay at the Max-Planck Institute for Solar System Research (January-February 2023, Göttingen).
+- Attendance and participation with a poster in the [Día de Nuestra Ciencia](https://meetings.iac.es/DNC/pages/test/program.php) (2023, Tenerife). "Opacity for cool stars in 3D MHD simulations".
+- Stay for 2 months at the Max-Planck Institute for Solar System Research (2023, Göttingen).
 - Attendance and participation with a talk in the SEA anual meeting (2022, La Laguna). "Optimized opacity for near-surface convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a ([poster](\url{https://doi.org/10.5281/zenodo.7524414)) in the [Cool Stars 21](https://coolstars21.github.io/) meeting (2022, Toulouse). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a poster in the EAS anual meeting (2022, Valencia). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
@@ -55,9 +56,9 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Attendance and participation with a [poster](https://indico.ict.inaf.it/event/794/contributions/9581/) in the 16th European Solar Physics Meeting (2021, online). "The opacity pipeline: from atomic data to realistic RMHD simulations".
 - Attendance and participation with a poster in the Día de Nuestra Ciencia (2021, online). "Modeling of 3D atmospheres of cool stars with the MANCHA code".
 - Attendance to the online course Fortran for Scientific Computing held at the High-Performance Computing Center Stuttgart (2021, online).
-- Attendance and participation with a [poster](https://ui.adsabs.harvard.edu/abs/2021csss.confE.129P) in the Cool Stars 20.5 meeting (2021). "The opacity pipeline: from atomic data to realistic RMHD simulations".
+- Attendance and participation with a [poster](https://ui.adsabs.harvard.edu/abs/2021csss.confE.129P) in the Cool Stars 20.5 meeting (2021, online). "The opacity pipeline: from atomic data to realistic RMHD simulations".
 - Attendance to the [STFC Solar-Stellar Connection Summer School](https://warwick.ac.uk/fac/sci/physics/research/cfsa/stfc_summer_school/) (2020, online).
 - Attendance and participation with a [poster](https://ui.adsabs.harvard.edu/abs/2020sea..confE.206P) in the SEA (Spanish Astronomy Society) annual meeting (2020, online). "Local dynamo in stars beyond the Sun: Study for a K0V star".
-- Attendance to the [XXXI Canary Islands Winter School of Astrophysics](https://meetings.iac.es/winterschool/2019/index.php) (2019), organized by the Instituto de Astrofísica de Canarias: school consisting in lectures and hand-son sessions about Computational Fluid Dynamics in Astrophysics. Among the topics were: dynamic of solar and stellar convection, solar atmosphere, galaxy formation, interstellar medium.
+- Attendance to the [XXXI Canary Islands Winter School of Astrophysics](https://meetings.iac.es/winterschool/2019/index.php) (2019, Tenerife), organized by the Instituto de Astrofísica de Canarias: school consisting in lectures and hand-son sessions about Computational Fluid Dynamics in Astrophysics. Among the topics were: dynamic of solar and stellar convection, solar atmosphere, galaxy formation, interstellar medium.
 - Relevant courses during the Master (2017-2019): spectropolarimetry in astrophysics, solar physics and spacial climate, programming techniques, cosmic plasma physics, stellar atmospheres, computational astrophysics, numeric simulation techniques, stellar structure and evolution, basic computational techniques.
 
