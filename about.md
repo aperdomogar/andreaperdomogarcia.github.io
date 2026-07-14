@@ -49,7 +49,7 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Invited Colloquium at the Institut für Sonnen Physics (2025, Freiburg). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
 - Attendance and participation with a poster in the [Día de Nuestra Ciencia](https://meetings.iac.es/DNC/pages/test/program.php) (2023, Tenerife). "Opacity for cool stars in 3D MHD simulations".
 - Stay for 2 months at the Max-Planck Institute for Solar System Research (2023, Göttingen).
-- Attendance and participation with a talk in the SEA anual meeting (2022, La Laguna). "Optimized opacity for near-surface convection simulations of cool stars with the MANCHA code".
+- Attendance and participation with a talk in the SEA anual meeting (2022, Tenerife). "Optimized opacity for near-surface convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a ([poster](\url{https://doi.org/10.5281/zenodo.7524414)) in the [Cool Stars 21](https://coolstars21.github.io/) meeting (2022, Toulouse). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
 - Attendance and participation with a poster in the EAS anual meeting (2022, Valencia). "Optimized opacity for photospheric convection simulations of cool stars with the MANCHA code".
 - Attendance to the Yearly meeting of the ERC Synergy Grant [The Whole Sun](https://wholesun.eu/) (2022, Paris).
