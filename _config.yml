@@ -146,8 +146,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
       # url:
       #- label: "GitLab"
       #  icon: "fab fa-fw fa-gitlab"
@@ -157,13 +157,13 @@ footer:
       # url:
     - label: "ORCID"
       icon: "ORCID"
-      # url:
+      url: "https://orcid.org/0000-0001-6914-3067"
     - label: "NASA ADS"
       icon: "ADS"
-      # url:
+      url: "https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&p_=0&q=author%3A%22perdomo%20garc%C3%ADa%2C%20andrea%22&sort=date%20desc%2C%20bibcode%20desc"
     - label: "Linkedin"
       icon: "Linkedin"
-      # url:
+      url: "www.linkedin.com/in/a-perdomo-garcia"
   since: "2026"
 
 
