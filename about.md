@@ -22,7 +22,7 @@ Assistant Professor in the Universidad de Las Palmas de Gran Canaria. Interested
 - 2013--2017: BSc degree in Physics (Universidad de La Laguna,Tenerife, Spain), average score: 8.49/10.
 
 ##  Programming skills
-- Programming languages and tools: IDL, Python, IRAF, MPI, Fortran, git.
+- Programming languages and tools: IDL, Python, IRAF, MPI, Fortran, git, ADQL.
 - Experience with HPC on [Piz-Daint](https://www.cscs.ch/computers/piz-daint/), [MareNostrum](https://www.bsc.es/marenostrum/marenostrum), [PICASSO](https://www.res.es/es/nodos-de-la-res/picasso) and [LaPalma](https://www.res.es/es/nodos-de-la-res/lapalma) Supercomputers.
 
 ## Publications in peer reviewed Journals:
