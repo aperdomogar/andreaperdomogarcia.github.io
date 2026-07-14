@@ -139,9 +139,6 @@ author:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin" #"assets/images/LinkedIn_logo_initials.png"
       url: "www.linkedin.com/in/a-perdomo-garcia"
-    - label: 'Astronomy Genealogy'
-      icon: "fa-solid fa-tree"
-      url: https://astrogen.aas.org/front/searchdetails.php?agnumber=73524
     #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
@@ -167,6 +164,9 @@ footer:
     - label: "Linkedin"
       icon: "Linkedin"
       url: "www.linkedin.com/in/a-perdomo-garcia"
+    - label: 'Astronomy Genealogy'
+      icon: "Astronomy Genealogy"
+      url: "https://astrogen.aas.org/front/searchdetails.php?agnumber=73524"
   since: "2026"
 
 
