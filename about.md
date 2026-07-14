@@ -45,7 +45,7 @@ Astrophysics” (2024)](https://ui.adsabs.harvard.edu/abs/2024SoPh..299...23M/ab
 - Attendance to the [Open Time Proposal PLATO workshop](https://events.gwdg.de/event/1126/page/340-travel-information) (2025, Munich).
 - Attendance and participation with a talk in the [Exploring Star-Planet-Disk Connections Conference](https://exohost2025.ut.ee/) (2025, Tartu). "Planet formation viewed from the metal mass fraction of the stellar hosts".
 - Attendance and participation with a talk in the EAS annual meeting (2025, Cork). "Metallicities of planet-hosts".
-- Attendance and participation with a talk in the IX Reunión de Física Solar y Heliosférica de la Red de Infraestructuras de Astronomía (2025, Lluc, Mallorca). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
+- Attendance and participation with a talk in the IX Reunión de Física Solar y Heliosférica de la Red de Infraestructuras de Astronomía (2025, Mallorca). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
 - Invited Colloquium at the Institut für Sonnen Physics (2025, Freiburg). "The effect of local magnetic fields in quiet regions of stellar atmospheres simulated with MANCHA".
 - Attendance and participation with a poster in the [Día de Nuestra Ciencia](https://meetings.iac.es/DNC/pages/test/program.php) (2023, Tenerife). "Opacity for cool stars in 3D MHD simulations".
 - Stay for 2 months at the Max-Planck Institute for Solar System Research (2023, Göttingen).
