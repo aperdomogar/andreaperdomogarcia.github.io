@@ -139,11 +139,12 @@ author:
     - label: "Linkedin"
       icon: "fa-brands fa-linkedin" #"assets/images/LinkedIn_logo_initials.png"
       url: "www.linkedin.com/in/a-perdomo-garcia"
+    - label: 'GenAstronomyTree'
+      icon: "fa-solid fa-tree"
+      url: https://astrogen.aas.org/front/searchdetails.php?agnumber=73524
     #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-
-    # Genealogy astronomy tree: https://astrogen.aas.org/front/searchdetails.php?agnumber=73524
 
 # Site Footer
 footer:
