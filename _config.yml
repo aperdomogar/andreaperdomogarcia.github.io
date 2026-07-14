@@ -127,7 +127,7 @@ author:
   avatar           : "/assets/images/foto_perfil.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Doctor in Astrophysics"
   location         : "ULPGC, Canary Islands"
-  email            : "andrea.perdomo@ulpgc.es, andrperdomo@gmail.com"
+  email            : #"andrea.perdomo@ulpgc.es, andrperdomo@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
