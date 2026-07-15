@@ -8,16 +8,16 @@ author_profile: true
 Assistant Professor in the Universidad de Las Palmas de Gran Canaria. Interested in 3D MHD modelling of stellar atmospheres, chemical link between planets and their stellar hosts, and stellar spectroscopy (4MOST).
 
 ## Experience
-- **Assistant Proassistant professor** (2026--now) in the Universisdad de Las Palmas de Gran Canaria.
+- **Assistant professor** (2026--now) in the Universidad de Las Palmas de Gran Canaria.
 - **Postdoc researcher** (2024--2026) in stellar physics and exoplanets at the Max-Plank Institut für Astronomie: Study of the chemical link between exoplanets and their stellar hosts with the most up-to-date available data from GALAH, APOGEE, and Gaia-ESO. Creation of Observing Blocks during the Survey Program Validation in 4MOST. Group leader: Maria Bergemann.
 - **PhD in astrophysics** (2019--2024) about stellar and interstellar physics; Severo Ochoa predoctoral position in the Instituto de Astrofísica de Canarias: Study of stellar atmospheres through realistic 3D radiative MHD simulations with non-ideal terms in the induction equation (Biermann's battery). Supervisors: Nikola Vitas, Manuel A. Collados Vera. The study is realized as a part of [PI2FA project](http://research.iac.es/proyecto/PI2FA/) led by PI Elena Khomenko.
 - **Masters final thesis** (2019) about characterization of a black hole x-ray transient during outburst: Analysis of optical spectroscopic and photometric observations of the x-ray binary Swift J1910.2-0546 during outburst and quiescence. Supervisors: Manuel A. Pérez Torres, Pablo Rodríguez Gil.
-- **Collaboration Grant** (2018) about numeric simulations of Bose-Einstein condensates of atomic gases: Continuation of the work started during the Bachelor degree's final thesis. Supervisor: Vicente Delgado Borges.
+- **Collaboration grant** (2018) about numeric simulations of Bose-Einstein condensates of atomic gases: Continuation of the work started during the Bachelor degree's final thesis. Supervisor: Vicente Delgado Borges.
 - **Bachelor degree's final thesis** (2017) about Bose-Einstein Condensates of Dilute Alkali Gases: Theoretical and numerical study of Bose-Einstein Condensates' equations for temperatures near the absolute zero, focusing on the quasi-1D case. Supervisor: Vicente Delgado Borges
 - **Internship** (2017) at the Servicio de Microscopía Electrónica del SEGAI: Assistance in the [SEGAI's Electron Microscopy Service](//www.ull.es/servicios/segai/servicios/microscopia-electronica/).
 
 ## Education and training
-- 2019--2024: PhD in Astrophysics (Universidad de La Laguna,Tenerife, Spain), Stellar and interstellar physics.
+- 2019--2024: PhD in Astrophysics (Universidad de La Laguna,Tenerife, Spain), Stellar and interstellar physics. Score: cum laude.
 - 2017--2019: MSc in Astrophysics (Universidad de La Laguna,Tenerife, Spain), average score: 8.27/10. 
 - 2013--2017: BSc degree in Physics (Universidad de La Laguna,Tenerife, Spain), average score: 8.49/10.
 
